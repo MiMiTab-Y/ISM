@@ -2,6 +2,10 @@
  
 ### ロボティクス特論　第13回レポート課題のソースコード
 
-#### ソースコードの概要
+#### リポジトリの概要
 - `ISM-FHA.ipynb`　![](https://img.shields.io/badge/Python-3.11.3-blue)  
-ISM機能階層分析をJupyter notebook形式で記述したもの
+講義で行ったISM機能階層分析
+- `ISM-FHA_exercise.ipynb`　![](https://img.shields.io/badge/Python-3.11.3-blue)  
+課題で実施したISM機能階層分析
+- `機能項目相互間の関係.xlsx`  
+機能項目相互間の関係表
